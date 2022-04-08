@@ -5,6 +5,9 @@
 -- WHERE column1 = expression1
 -- AND column2 = expression2
 
+SELECT first_name, last_name
+
+
 -- Expected result: 47 rows starting with
 --
 -- +------------+-----------+
